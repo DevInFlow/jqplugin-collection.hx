@@ -1,0 +1,19 @@
+{
+  "name": "jqplugin-collection.hx",
+  "url": "https://github.com/DevInFlow/jqplugin-collection.hx",
+  "license": "MIT",
+  "tags": [
+    "js",
+    "jquery",
+    "extern"
+  ],
+  "description": "JQuery plugin collection for typesafe haxe",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+  }
+}
